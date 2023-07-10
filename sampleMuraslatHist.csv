@@ -1,4 +1,4 @@
-username,imageUrl,depart,action,action_date,deadline,isSecret,urgentType,hist_id,hist_parentId,deadlineStatus,isCC
+username,imageUrl,depart,action,action_date,deadline,isSecret,urgentType,id,parentId,deadlineStatus,isCC
 abdalla ali,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,IT,creation,1/7/2023,1/9/2023,FALSE,normal,1,,0,FALSE
 ahmed ali,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,IT,take action,1/8/2023,1/10/2023,FALSE,urgent,2,1,1,FALSE
 omar,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,HR,for sign,1/9/2023,1/11/2023,FALSE,very ,3,1,0,TRUE
