@@ -1,0 +1,16 @@
+username,imageUrl,depart,action,action_date,deadline,isSecret,urgentType,hist_id,hist_parentId,deadlineStatus,isCC
+abdalla ali,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,IT,creation,1/7/2023,1/9/2023,FALSE,normal,1,,0,FALSE
+ahmed ali,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,IT,take action,1/8/2023,1/10/2023,FALSE,urgent,2,1,1,FALSE
+omar,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,HR,for sign,1/9/2023,1/11/2023,FALSE,very ,3,1,0,TRUE
+khaled,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Admin,for review,1/10/2023,1/12/2023,FALSE,normal,4,2,2,FALSE
+maha,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,General,for review,1/11/2023,1/13/2023,FALSE,normal,5,2,0,TRUE
+nora,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,General,for review,1/12/2023,1/14/2023,FALSE,normal,6,2,0,TRUE
+Fuller Andrew,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/13/2023,1/15/2023,FALSE,normal,7,3,3,FALSE
+Peacock Margaret,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/14/2023,1/16/2023,FALSE,normal,8,4,4,FALSE
+Buchanan Steven,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/15/2023,1/17/2023,FALSE,normal,9,7,0,FALSE
+Suyama Michael,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/16/2023,1/18/2023,FALSE,normal,10,7,0,TRUE
+King Robert,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/17/2023,1/19/2023,FALSE,normal,11,9,0,FALSE
+West Adam,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/18/2023,1/20/2023,FALSE,normal,12,9,0,TRUE
+Charlotte Cooper,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/19/2023,1/21/2023,FALSE,normal,13,9,0,TRUE
+Yoshi Nagase,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/20/2023,1/22/2023,FALSE,normal,14,12,0,FALSE
+Peter Wilson,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,General,for review,1/21/2023,1/23/2023,FALSE,normal,15,13,0,FALSE
